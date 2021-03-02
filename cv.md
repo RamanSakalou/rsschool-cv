@@ -1,6 +1,6 @@
 # My resume
 
-![аватар](IMG_FACE.jpg)
+![аватар]( IMG_FACE.jpg )
 
 Full Name: **_Raman Sakalou_**
 
@@ -24,4 +24,4 @@ e-mail: haloroma1998@gmail.com
 
 phone: `+375292572035` (Telegram, Whatsapp, Skype, Viber)
 
-[My GitHub](https://github.com/RamanSakalou)
+[My GitHub]( https://github.com/RamanSakalou )
